@@ -6,10 +6,12 @@ Za uspešen zagon našega projekta, bomo potrebovali naslednje stvari:
 - Git (Za arhiviranje naše kode) [Prenesi](https://git-scm.com/downloads)
 - Node [Prenesi](https://nodejs.org/en/download/)
 
-<details><summary>Če si želite začeti svoj projekt brez predloge, ki jo bomo uporabili v naslednjem koraku, potrebujete še izvesti naslednje ukaze</summary>
+<details><summary>Če si želite začeti svoj projekt brez predloge, ki jo bomo uporabili v naslednjem koraku, potrebujete še izvesti naslednji ukaz</summary>
+
 `npx create-react-app my-app`  
 `cd my-app`  
 `npm start`
+
 </details>
 
 ## Naš začetni projekt
