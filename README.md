@@ -35,4 +35,8 @@ Osveži svojo github stran, in videl boš svoje datoteke na Githubu :)
 
 Več o tem kako ustvariti svojo prvo aplikacijo na [Create React App dokumentacija](https://facebook.github.io/create-react-app/docs/getting-started)
 
-Več o tem kako uporabljati [Git in Github](https://try.github.io/)
+Več o tem kako uporabljati
+
+<details><summary>Kako pripraviti konfiguracijo za projekt</summary>
+[Frontend ReactJS stack](https://medium.com/@adam.giacom/how-to-configure-a-solid-frontend-reactjs-stack-1-41a091133d0e)
+</details>
