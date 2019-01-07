@@ -22,7 +22,7 @@ Za uspešen zagon našega projekta, bomo potrebovali naslednje stvari:
 
 ## Zagon aplikacije
 
-Na svojemem računalniku, v mapi kamor si si kloniral projekt, v ukazni vrstici izvedi ukaz `npm start`
+Na svojemem računalniku, v mapi kamor si si kloniral projekt, v ukazni vrstici izvedi ukaz `npm install`, ko se proces zaključi, izveri še ukaz `npm start`
 Odpri [http://localhost:3000](http://localhost:3000) in videl boš svojo aplikacijo v brskalniku.
 
 ## Arhiviraj aplikacijo v svoj github
